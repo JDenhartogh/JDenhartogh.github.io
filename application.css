@@ -73,3 +73,9 @@ p {
 #pi {
 	border: 5px solid black;
 }
+
+li {
+	text-align: left;
+	font: 20px 'Roboto',Helvetica,Arial,sans-serif;
+
+}
