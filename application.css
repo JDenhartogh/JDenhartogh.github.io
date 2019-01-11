@@ -79,3 +79,7 @@ li {
 	font: 20px 'Roboto',Helvetica,Arial,sans-serif;
 
 }
+
+ul {
+	list-style-position:inside
+}
