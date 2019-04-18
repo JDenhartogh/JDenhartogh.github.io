@@ -1,2 +1,0 @@
-./john --stdout --wordlist=all
-tomislav - 12345
